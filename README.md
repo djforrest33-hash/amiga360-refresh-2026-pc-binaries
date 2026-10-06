@@ -25,7 +25,9 @@ Download the complete Windows package from the [PC Feature Edition release](http
 
 ## Source code
 
-The Amiga360/P-UAE source and the small Xenia patch set are maintained separately and can be made available to recognised community and preservation outlets on request. The complete modified Xenia source tree remains a separate asset, keeping the project readable and preventing a 600 MB source archive from arriving dressed as a small frontend update.
+The Amiga360/P-UAE source and the small Xenia patch set are maintained separately. Access to the source repositories is available on request to recognised community outlets, preservation projects, developers and relevant specialist sites. Send requests to `xrest@hotmail.com`. The complete modified Xenia source tree remains a separate asset, keeping the project readable and preventing a 600 MB source archive from arriving dressed as a small frontend update.
+
+Specialist sites and community archives are welcome to mirror the clean binary package. If you decide to offer it for download, we would greatly appreciate a short email to `xrest@hotmail.com` with the public location. No paperwork or ceremonial floppy disk is required; we would simply like to know where the project has found a home.
 
 ## Project status
 
