@@ -75,3 +75,9 @@ Core and port lineage: Bernd Schmidt, Toni Wilen, Richard Drummond, Mustafa “G
 Bug reports, mirror notices and source-access requests: `xrest@hotmail.com`
 
 If you enjoy the work, the optional coffee link lives in the packaged README. No popup, no guilt trip, no animated cup following your cursor.
+
+
+**Current release checksums**
+
+- PC ZIP: `972E25CFE441FC019646795632758D3D8A291762C8C2625031405FD101E32591`
+- Tools CD ISO: `BAC2022C704B938E52DC2900971388DC065722DDEDF878CA04D4A2ADAC2B4FA8`
