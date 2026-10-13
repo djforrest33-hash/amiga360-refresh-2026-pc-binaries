@@ -1,3 +1,10 @@
+## Video tutorials
+
+- **[Tutorial 01 — Workbench 3.1 ClassicWB installation with Picasso96](https://www.youtube.com/watch?v=iCkOokENt08)**
+- **[Tutorial 02 — Workbench 3.1 custom iGame installation](https://www.youtube.com/watch?v=Z2JSXbjt2hU)**
+
+The tutorial uses the same Amiga-side setup shared by the Xbox and PC editions, so Windows users can follow it too. Supply only Kickstart, Workbench and other copyrighted media you legally own; fourteen minutes of video are still easier than asking a 1990s installer to explain itself.
+
 # Amiga 360 Refresh 2026 — PC Feature Edition
 
 ![Windows](https://img.shields.io/badge/Windows-PC-0078D4?logo=windows&logoColor=white)
